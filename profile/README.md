@@ -1,5 +1,4 @@
 ## AURA KR
 
-<!--
 AURA:RP DEVELOP TEAM
--->
+WELCOME
