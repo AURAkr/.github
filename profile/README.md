@@ -1,4 +1,3 @@
 ## AURA KR
 
-AURA:RP DEVELOP TEAM
-WELCOME
+Develop Team for AURA:RP
